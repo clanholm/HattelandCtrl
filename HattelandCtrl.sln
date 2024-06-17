@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HattelandCtrl", "HattelandCtrl\HattelandCtrl.csproj", "{D939A4D4-F242-46AD-A128-478035303A04}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BrightnessCtl", "BrightnessCtl\BrightnessCtl.vdproj", "{760C0E90-63DC-4997-B4ED-F22F7F130D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D939A4D4-F242-46AD-A128-478035303A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D939A4D4-F242-46AD-A128-478035303A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D939A4D4-F242-46AD-A128-478035303A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D939A4D4-F242-46AD-A128-478035303A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760C0E90-63DC-4997-B4ED-F22F7F130D5E}.Debug|Any CPU.ActiveCfg = Debug
+		{760C0E90-63DC-4997-B4ED-F22F7F130D5E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC0E80E-45E6-47E8-AEBF-1DF3A3D501A0}
+	EndGlobalSection
+EndGlobal

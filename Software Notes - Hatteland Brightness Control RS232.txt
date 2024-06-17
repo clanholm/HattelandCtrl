@@ -1,0 +1,4 @@
+This program was written in Visual Studio 2022 using C# by Chuck Lanholm.
+The purpose is to control the brightness of a Hatteland Monitor via RS232.
+It is a 32 Bit Windows program that can be installed with the "BrightnessCtl.msi" installer file.
+The communication is one-way and is very limited in scope as it just sends the brightness command.
